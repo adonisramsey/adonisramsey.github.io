@@ -3,6 +3,9 @@ body {
     
     
 }
+#home{
+    height:50vh;
+}
 #box{
     width: 250px;
     height: 400px;
