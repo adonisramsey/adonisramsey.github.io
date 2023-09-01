@@ -4,11 +4,11 @@ body {
     
 }
 #home{
-    height:50vh;
+    height:100vh;
 }
 #box{
-    width: 250px;
-    height: 400px;
+    width: 50vw;
+    height: 100vh;
     background: white;
     position: relative;
     left: 50px;
