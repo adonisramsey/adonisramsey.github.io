@@ -17,7 +17,7 @@ body {
 #box button{
     background: #020309;
     height: 5vh;
-    width:10vw;
+    width:25vw;
     border-radius: 10px;
     border: none; 
     position: relative; 
@@ -44,6 +44,7 @@ body {
     left: 50px;
     top: 50px;
     font-family: 'Merriweather', serif;
+    height:10vh;
 }
 #about{
     position: relative;
