@@ -7,7 +7,7 @@ body {
     height:100vh;
 }
 #box{
-    width: 90vw;
+    width: 80vw;
     height: 90vh;
     background: white;
     position: relative;
@@ -16,7 +16,7 @@ body {
 }
 #box button{
     background: #020309;
-    height: 30px;
+    height: 30vh;
     border-radius: 10px;
     border: none; 
     position: relative; 
@@ -31,9 +31,9 @@ body {
     left: 15px;
 }
 #box img{
-    height: 80px;
+    height: 400px;
     border-radius:50%;
-    width: 80px;
+    width: 400px;
     position: relative;
     left: 70px;
     top: 70px;
@@ -49,7 +49,7 @@ body {
     top: 90px;
     left: 10px;
     font-family: 'Dancing Script', cursive;
-    font-size:15px;
+    font-size:50px;
 }
 #home{
     height: 100vh;
@@ -58,8 +58,8 @@ body {
     height: 100vh;
 }
 .swiper{
-    width: 250px;
-    height: 400px;
+    width: 80vw;
+    height: 90vh;
     background: white;
     
     border-radius: 10px;
@@ -86,8 +86,8 @@ body {
     height: 100vh;
 }
 #box2{
-  width: 250px;
-    height: 400px;
+  width: 80vw;
+    height: 90vh;
     background: white;
     position: relative;
     left: 20px;
@@ -95,10 +95,10 @@ body {
     top: 20px; 
 }
 .fa-brands{
-    height: 70px;
+    height: 10vh;
     position: relative;
     left: 50px;
-    font-size:30px;
+    font-size:60px;
     padding: 30px 0px 0px 0px;
 }
 #box2 a{
@@ -117,5 +117,5 @@ h1{
     border:none;
 }
 .back a {
-   font-size:30px; 
+   font-size:60px; 
 }
