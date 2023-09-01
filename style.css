@@ -16,7 +16,8 @@ body {
 }
 #box button{
     background: #020309;
-    height: 30vh;
+    height: 5vh;
+    width:10vw;
     border-radius: 10px;
     border: none; 
     position: relative; 
