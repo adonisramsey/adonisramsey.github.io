@@ -26,6 +26,7 @@ body {
 #box button a{
     color: white;
     text-decoration:none;
+    font-size:50px;
 }
 #btn{
     position: relative;
@@ -45,6 +46,7 @@ body {
     top: 50px;
     font-family: 'Merriweather', serif;
     height:10vh;
+    font-size:70px;
 }
 #about{
     position: relative;
@@ -68,21 +70,22 @@ body {
   
 }
 .swiper-slide img{
-    height: 200px;
+    height: 15vh;
     position: relative;
-    width: 300px;
+    width: 70vw;
     border-radius: 10px;
     top: 10px;
     
 }
 .swiper-slide {
     background: white;
-    width: 300px;
+    width: 75vw;
     
 }
 .swiper-slide p{
     font-family: 'Merriweather', serif;
     text-align: center;
+    font-size:50px;
 }
 #contact{
     height: 100vh;
@@ -101,7 +104,7 @@ body {
     position: relative;
     left: 50px;
     font-size:60px;
-    padding: 30px 0px 0px 0px;
+    padding: 60px 10px 10px 10px;
 }
 #box2 a{
     height: 70px;
@@ -109,15 +112,17 @@ body {
     left: 50px;
     color: #0d0f19;
     text-decoration:none;
+    font-size:50px;
 }
 h1{
     font-family: 'Josefin Sans', sans-serif;
     color: white;
+    font-size:70px;
 }
 .back{
     background: transparent;
     border:none;
 }
 .back a {
-   font-size:60px; 
+   font-size:70px; 
 }
